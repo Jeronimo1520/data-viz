@@ -1,0 +1,4 @@
+- Tener cuidado con los datos sensibles, como datos médicos
+- Realizar visualizaciones alternativas que no muestren data sensible y eliminar cualquier forma de registros individuales
+- La agrupación y agregación de datos me permite mantener la confidencialidad de los datos
+- Existen factores externos que pueden afectar el tipo de visualizaciones que podemos hacer

@@ -1,0 +1,35 @@
+¿Cómo hacer análisis de datos desde cero?
+
+1. Inspección:
+
+El primer paso es tomar los datos e inspeccionarlos, cargarlos en un dataframe y mirarlos, analizar sus columnas, tipos de datos, rangos de variables numericas, hacer un describe al df, analizar valores unicos, valores nulos, etc.
+
+Preguntas a resolver:
+Cuantas columnas tengo? Cuales me interesan?
+Estas columnas, que tipo de datos tienen?
+Cuales son los rangos de mis variables?
+Que tienen mis variables categoricas?
+
+Detectar valores nulos Nan
+Nunca perder de vista el objetivo
+
+2. Curación (opcional)
+
+Corregir los tipos de variables
+Tratar los datos nulos
+Transformaciones de datos
+Calcular nuevas columnas
+Filtrado de datos
+Agrupacion de datos 
+
+Si es necesario volver a la fase 1
+
+3. Visualizaciones
+
+Analizar correlaciones, distribuciones, valores atipicos, puntos de intereses, tendencias
+, patrones, proporciones, etc. Todo mediante el análisis visual.
+
+Podemos movernos entre todas las fases mediante vamos descubriendo nueva info sobre los datos.
+
+Fase adicional: Machine learning
+Una vez listos los datos, pueden prepararse para poder entrenar modelos de prediccion, clasificacion, NLP, etc.
